@@ -1,0 +1,14 @@
+C:\Users\shres\DotNet\Lab1\bin\Debug\net10.0\Lab1.exe
+C:\Users\shres\DotNet\Lab1\bin\Debug\net10.0\Lab1.deps.json
+C:\Users\shres\DotNet\Lab1\bin\Debug\net10.0\Lab1.runtimeconfig.json
+C:\Users\shres\DotNet\Lab1\bin\Debug\net10.0\Lab1.dll
+C:\Users\shres\DotNet\Lab1\bin\Debug\net10.0\Lab1.pdb
+C:\Users\shres\DotNet\Lab1\obj\Debug\net10.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shres\DotNet\Lab1\obj\Debug\net10.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\shres\DotNet\Lab1\obj\Debug\net10.0\Lab1.AssemblyInfo.cs
+C:\Users\shres\DotNet\Lab1\obj\Debug\net10.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\shres\DotNet\Lab1\obj\Debug\net10.0\Lab1.dll
+C:\Users\shres\DotNet\Lab1\obj\Debug\net10.0\refint\Lab1.dll
+C:\Users\shres\DotNet\Lab1\obj\Debug\net10.0\Lab1.pdb
+C:\Users\shres\DotNet\Lab1\obj\Debug\net10.0\Lab1.genruntimeconfig.cache
+C:\Users\shres\DotNet\Lab1\obj\Debug\net10.0\ref\Lab1.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shres\\DotNet\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|c:\\users\\shres\\dotnet\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|c:\\users\\shres\\dotnet\\lab4\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|solutionrelative:interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|c:\\users\\shres\\dotnet\\lab4\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|solutionrelative:inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|c:\\users\\shres\\dotnet\\lab4\\abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|solutionrelative:abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|c:\\users\\shres\\dotnet\\lab4\\sealead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1E4ED5-B3B0-BE7E-02EC-FF2AF45C22B2}|Lab4.csproj|solutionrelative:sealead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "interface.cs",
+              "DocumentMoniker": "C:\\Users\\shres\\DotNet\\Lab4\\interface.cs",
+              "RelativeDocumentMoniker": "interface.cs",
+              "ToolTip": "C:\\Users\\shres\\DotNet\\Lab4\\interface.cs",
+              "RelativeToolTip": "interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T07:38:39.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "abstract.cs",
+              "DocumentMoniker": "C:\\Users\\shres\\DotNet\\Lab4\\abstract.cs",
+              "RelativeDocumentMoniker": "abstract.cs",
+              "ToolTip": "C:\\Users\\shres\\DotNet\\Lab4\\abstract.cs",
+              "RelativeToolTip": "abstract.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T07:24:48.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sealead.cs",
+              "DocumentMoniker": "C:\\Users\\shres\\DotNet\\Lab4\\sealead.cs",
+              "RelativeDocumentMoniker": "sealead.cs",
+              "ToolTip": "C:\\Users\\shres\\DotNet\\Lab4\\sealead.cs",
+              "RelativeToolTip": "sealead.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T07:17:20.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "inheritance.cs",
+              "DocumentMoniker": "C:\\Users\\shres\\DotNet\\Lab4\\inheritance.cs",
+              "RelativeDocumentMoniker": "inheritance.cs",
+              "ToolTip": "C:\\Users\\shres\\DotNet\\Lab4\\inheritance.cs",
+              "RelativeToolTip": "inheritance.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T14:14:45.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shres\\DotNet\\Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shres\\DotNet\\Lab4\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T14:13:12.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
