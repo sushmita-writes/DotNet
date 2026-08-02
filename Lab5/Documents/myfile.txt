@@ -1,0 +1,6 @@
+Written to myfile.txt
+    -> WriteAllText. 
+Appended to myfile.txt
+   -> AppendAllText. 
+line1
+line2
