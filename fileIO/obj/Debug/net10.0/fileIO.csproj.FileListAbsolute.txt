@@ -1,0 +1,15 @@
+C:\Users\shres\DotNet\fileIO\obj\Debug\net10.0\fileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shres\DotNet\fileIO\obj\Debug\net10.0\fileIO.AssemblyInfoInputs.cache
+C:\Users\shres\DotNet\fileIO\obj\Debug\net10.0\fileIO.AssemblyInfo.cs
+C:\Users\shres\DotNet\fileIO\obj\Debug\net10.0\fileIO.csproj.CoreCompileInputs.cache
+C:\Users\shres\DotNet\fileIO\obj\Debug\net10.0\fileIO.sourcelink.json
+C:\Users\shres\DotNet\fileIO\bin\Debug\net10.0\fileIO.exe
+C:\Users\shres\DotNet\fileIO\bin\Debug\net10.0\fileIO.deps.json
+C:\Users\shres\DotNet\fileIO\bin\Debug\net10.0\fileIO.runtimeconfig.json
+C:\Users\shres\DotNet\fileIO\bin\Debug\net10.0\fileIO.dll
+C:\Users\shres\DotNet\fileIO\bin\Debug\net10.0\fileIO.pdb
+C:\Users\shres\DotNet\fileIO\obj\Debug\net10.0\fileIO.dll
+C:\Users\shres\DotNet\fileIO\obj\Debug\net10.0\refint\fileIO.dll
+C:\Users\shres\DotNet\fileIO\obj\Debug\net10.0\fileIO.pdb
+C:\Users\shres\DotNet\fileIO\obj\Debug\net10.0\fileIO.genruntimeconfig.cache
+C:\Users\shres\DotNet\fileIO\obj\Debug\net10.0\ref\fileIO.dll
