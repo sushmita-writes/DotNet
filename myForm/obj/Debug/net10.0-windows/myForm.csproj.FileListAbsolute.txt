@@ -1,0 +1,17 @@
+C:\Users\shres\DotNet\myForm\bin\Debug\net10.0-windows\myForm.exe
+C:\Users\shres\DotNet\myForm\bin\Debug\net10.0-windows\myForm.deps.json
+C:\Users\shres\DotNet\myForm\bin\Debug\net10.0-windows\myForm.runtimeconfig.json
+C:\Users\shres\DotNet\myForm\bin\Debug\net10.0-windows\myForm.dll
+C:\Users\shres\DotNet\myForm\bin\Debug\net10.0-windows\myForm.pdb
+C:\Users\shres\DotNet\myForm\obj\Debug\net10.0-windows\myForm.Form1.resources
+C:\Users\shres\DotNet\myForm\obj\Debug\net10.0-windows\myForm.csproj.GenerateResource.cache
+C:\Users\shres\DotNet\myForm\obj\Debug\net10.0-windows\myForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shres\DotNet\myForm\obj\Debug\net10.0-windows\myForm.AssemblyInfoInputs.cache
+C:\Users\shres\DotNet\myForm\obj\Debug\net10.0-windows\myForm.AssemblyInfo.cs
+C:\Users\shres\DotNet\myForm\obj\Debug\net10.0-windows\myForm.csproj.CoreCompileInputs.cache
+C:\Users\shres\DotNet\myForm\obj\Debug\net10.0-windows\myForm.sourcelink.json
+C:\Users\shres\DotNet\myForm\obj\Debug\net10.0-windows\myForm.dll
+C:\Users\shres\DotNet\myForm\obj\Debug\net10.0-windows\refint\myForm.dll
+C:\Users\shres\DotNet\myForm\obj\Debug\net10.0-windows\myForm.pdb
+C:\Users\shres\DotNet\myForm\obj\Debug\net10.0-windows\myForm.genruntimeconfig.cache
+C:\Users\shres\DotNet\myForm\obj\Debug\net10.0-windows\ref\myForm.dll
