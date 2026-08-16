@@ -1,0 +1,179 @@
+html {
+  font-size: 14px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: lightblue;
+    color: darkslategrey;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+#profile-container {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    padding-top: 4rem;
+}
+
+#profile-container img {
+    border-radius: 3rem;
+    box-shadow: teal 0.5rem 0.5rem;
+}
+
+#profile-textbox {
+    background-color: lightcyan;
+    color: darkslategray;
+    border-radius: 3rem;
+    box-shadow: teal 0.5rem 0.5rem;
+    padding: 3rem;
+}
+
+#profile-textbox strong {
+    font-size: 2rem;
+}
+
+#profile-textbox em {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.container-fluid img {
+    border-radius: 50%;
+}
+
+#about-container {
+    display: flex;
+    gap: 3rem;
+    padding-top: 2rem;
+}
+
+.my-h1 {
+    letter-spacing: 0.7rem;
+    word-spacing: 1.7rem;
+    text-shadow: 3px 3px 2px grey;
+    font-weight: 900;
+}
+
+#about-container img {
+    margin-top: 0.7rem;
+    margin-bottom: 2.7rem;
+    border-radius: 1.5rem;
+    box-shadow: teal 0.5rem 0.5rem;
+}
+
+#about-me {
+    background-color: lightcyan;
+    text-align: justify;
+    border-radius: 1.8rem;
+    padding: 3rem;
+    font-size: 1rem;
+}
+
+#about-end {
+    text-align: center;
+    background-image: url('../images/bg.jpg');
+    background-size: cover;
+    border-radius: 2rem;
+    box-shadow: teal 0.7rem 0.7rem;
+    padding: 5.7rem 1.7rem;
+    text-shadow: 1px 1px 2px grey;
+}
+#about-end a {
+    color: darkblue;
+}
+
+#about-end span {
+    background-color: lightblue;
+    padding: 0.1rem;
+}
+
+#all-projects {
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+}
+
+#completed, #ongoing {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.project-card {
+    background-color: lightcyan;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: teal 0.5rem 0.5rem;
+    width: 480px;
+}
+
+.project-card-content {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.project-card-content img {
+    width: 200px;
+}
+
+.my-h2 {
+    margin-bottom: 1rem;
+    padding-bottom: 0.8rem;
+    text-align: center;
+    border-radius: 2.5rem;
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: lightcyan;
+    background-color: darkcyan;
+    font-family: Britannic;
+}
+.home-body {
+    background-image: url('../images/bg-1.jpg');
+}
+.projects-body {
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../images/bg-2.jpg');
+}
+
+.view-project {
+    display: inline-block;
+    background: darkcyan;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background 0.3s;
+}
+
+@media (max-width: 1200px) {
+    #about-container {
+        display: grid;
+    }
+}
