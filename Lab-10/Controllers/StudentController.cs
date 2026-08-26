@@ -33,5 +33,10 @@ namespace Lab_10.Controllers
 
             return View(students);
         }
+
+        public IActionResult CreateStudent()
+        {
+            return View();
+        }
     }
 }

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\shres\\DotNet\\Lab-10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{620F523A-046B-4131-A031-EF641B010E64}|Lab-10.csproj|c:\\users\\shres\\dotnet\\lab-10\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{620F523A-046B-4131-A031-EF641B010E64}|Lab-10.csproj|solutionrelative:views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8E613B2F-59CB-E0E4-E234-B8037E4038CB}|Lab-10.csproj|c:\\users\\shres\\dotnet\\lab-10\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E613B2F-59CB-E0E4-E234-B8037E4038CB}|Lab-10.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{620F523A-046B-4131-A031-EF641B010E64}|Lab-10.csproj|c:\\users\\shres\\dotnet\\lab-10\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{620F523A-046B-4131-A031-EF641B010E64}|Lab-10.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E613B2F-59CB-E0E4-E234-B8037E4038CB}|Lab-10.csproj|c:\\users\\shres\\dotnet\\lab-10\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E613B2F-59CB-E0E4-E234-B8037E4038CB}|Lab-10.csproj|solutionrelative:views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{620F523A-046B-4131-A031-EF641B010E64}|Lab-10.csproj|c:\\users\\shres\\dotnet\\lab-10\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{620F523A-046B-4131-A031-EF641B010E64}|Lab-10.csproj|solutionrelative:models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E613B2F-59CB-E0E4-E234-B8037E4038CB}|Lab-10.csproj|c:\\users\\shres\\dotnet\\lab-10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E613B2F-59CB-E0E4-E234-B8037E4038CB}|Lab-10.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{620F523A-046B-4131-A031-EF641B010E64}|Lab-10.csproj|c:\\users\\shres\\dotnet\\lab-10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{620F523A-046B-4131-A031-EF641B010E64}|Lab-10.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8E613B2F-59CB-E0E4-E234-B8037E4038CB}|Lab-10.csproj|c:\\users\\shres\\dotnet\\lab-10\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E613B2F-59CB-E0E4-E234-B8037E4038CB}|Lab-10.csproj|solutionrelative:models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\shres\\DotNet\\Lab-10\\Views\\Student\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\Details.cshtml",
-              "ToolTip": "C:\\Users\\shres\\DotNet\\Lab-10\\Views\\Student\\Details.cshtml*",
-              "RelativeToolTip": "Views\\Student\\Details.cshtml*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAowCEAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\shres\\DotNet\\Lab-10\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-26T10:41:40.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T10:41:40.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\shres\\DotNet\\Lab-10\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -51,34 +50,32 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABQAAAAAAAAAAAAAACAAAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-26T10:33:39.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T10:33:39.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\shres\\DotNet\\Lab-10\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\shres\\DotNet\\Lab-10\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAmwBcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-26T10:24:18.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentModel.cs",
               "DocumentMoniker": "C:\\Users\\shres\\DotNet\\Lab-10\\Models\\StudentModel.cs",
               "RelativeDocumentMoniker": "Models\\StudentModel.cs",
               "ToolTip": "C:\\Users\\shres\\DotNet\\Lab-10\\Models\\StudentModel.cs",
               "RelativeToolTip": "Models\\StudentModel.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T10:20:28.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T10:20:28.598Z"
             }
           ]
         }
