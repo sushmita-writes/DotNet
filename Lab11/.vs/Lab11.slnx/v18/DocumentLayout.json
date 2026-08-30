@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shres\\DotNet\\Lab11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F52B42-EB53-4E31-BD2A-ED4FB1810FBE}|Lab11.csproj|c:\\users\\shres\\dotnet\\lab11\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F52B42-EB53-4E31-BD2A-ED4FB1810FBE}|Lab11.csproj|solutionrelative:service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F52B42-EB53-4E31-BD2A-ED4FB1810FBE}|Lab11.csproj|c:\\users\\shres\\dotnet\\lab11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F52B42-EB53-4E31-BD2A-ED4FB1810FBE}|Lab11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F52B42-EB53-4E31-BD2A-ED4FB1810FBE}|Lab11.csproj|c:\\users\\shres\\dotnet\\lab11\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F52B42-EB53-4E31-BD2A-ED4FB1810FBE}|Lab11.csproj|solutionrelative:controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shres\\DotNet\\Lab11\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shres\\DotNet\\Lab11\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T14:55:41.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\shres\\DotNet\\Lab11\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\shres\\DotNet\\Lab11\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T14:37:03.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\shres\\DotNet\\Lab11\\Service.cs",
+              "RelativeDocumentMoniker": "Service.cs",
+              "ToolTip": "C:\\Users\\shres\\DotNet\\Lab11\\Service.cs*",
+              "RelativeToolTip": "Service.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwC4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T13:20:51.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

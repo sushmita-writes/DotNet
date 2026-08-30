@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\shres\\DotNet\\Portfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|c:\\users\\shres\\dotnet\\portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|c:\\users\\shres\\dotnet\\portfolio\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|c:\\users\\shres\\dotnet\\portfolio\\views\\home\\_layouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|solutionrelative:views\\home\\_layouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|c:\\users\\shres\\dotnet\\portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|c:\\users\\shres\\dotnet\\portfolio\\views\\portfolio\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\shres\\DotNet\\Portfolio\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\shres\\DotNet\\Portfolio\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAAAJwAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAJwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-08-13T14:16:26.666Z",
               "IsPinned": true,
@@ -48,7 +48,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\shres\\DotNet\\Portfolio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -61,7 +61,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_LayoutHome.cshtml",
               "DocumentMoniker": "C:\\Users\\shres\\DotNet\\Portfolio\\Views\\Home\\_LayoutHome.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\_LayoutHome.cshtml",
@@ -69,8 +69,7 @@
               "RelativeToolTip": "Views\\Home\\_LayoutHome.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-16T09:55:29.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-16T09:55:29.458Z"
             },
             {
               "$type": "Document",
@@ -82,8 +81,7 @@
               "RelativeToolTip": "Views\\Portfolio\\Projects.cshtml",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAAFYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-13T17:25:03.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T17:25:03.138Z"
             },
             {
               "$type": "Document",
@@ -95,8 +93,7 @@
               "RelativeToolTip": "Controllers\\PortfolioController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T13:36:36.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-13T13:36:36.743Z"
             }
           ]
         }
