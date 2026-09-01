@@ -1,6 +1,5 @@
 ﻿using Lab10re.Models;
 using Microsoft.AspNetCore.Mvc;
-using Lab10re.Models;
 using Microsoft.Data.SqlClient;
 
 namespace Lab10re.Controllers
@@ -76,6 +75,33 @@ namespace Lab10re.Controllers
 
         [Route("list-of-students-in-the-database")]
         public IActionResult ViewData()  // Template: Index
+        {
+            string conn_string = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Student;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False;Command Timeout=30";
+            SqlConnection conn = new SqlConnection(conn_string);
+            conn.Open();
+
+            string query = string.Format("SELECT * FROM Student");
+            SqlCommand cmd = new SqlCommand(query, conn);
+
+            List<StudentModel> students = new List<StudentModel>();
+            SqlDataReader reader = cmd.ExecuteReader();
+            while (reader.Read())
+            {
+                StudentModel s = new StudentModel();
+                s.FirstName = Convert.ToString(reader["FirstName"]);
+                s.LastName = Convert.ToString(reader["LastName"]);
+                s.Age = Convert.ToInt32(reader["Age"]);
+                s.Grade = Convert.ToChar(reader["Grade"]);
+                s.PhoneNumber = Convert.ToString(reader["PhoneNumber"]);
+
+                students.Add(s);
+            }
+
+            conn.Close();
+            return View(students);
+        }
+
+        public IActionResult ViewDataCRUD()  // Template: CRUD
         {
             string conn_string = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Student;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False;Command Timeout=30";
             SqlConnection conn = new SqlConnection(conn_string);

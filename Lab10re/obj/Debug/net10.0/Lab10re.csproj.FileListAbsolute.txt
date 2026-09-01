@@ -183,7 +183,6 @@ C:\Users\shres\DotNet\Lab10re\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Worksp
 C:\Users\shres\DotNet\Lab10re\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\shres\DotNet\Lab10re\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\shres\DotNet\Lab10re\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\shres\DotNet\Lab10re\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\shres\DotNet\Lab10re\obj\Debug\net10.0\Lab10re.csproj.Up2Date
 C:\Users\shres\DotNet\Lab10re\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
 C:\Users\shres\DotNet\Lab10re\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
